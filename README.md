@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is Zhefu's Github. I'm learning and coding in several languages as follow:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcatva)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcatva&langs_count=8)
 
 
 
