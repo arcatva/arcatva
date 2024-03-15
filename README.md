@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 This is Zhefu's Github. I'm learning and coding in several languages as follow:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcatva&langs_count=8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcatva&layout=donut-vertical&langcount=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
