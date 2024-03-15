@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 This is Zhefu's Github. I'm learning and coding in several languages as follow:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcatva&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcatva)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
 
 <!--
 **arcatva/arcatva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcatva&hide_progress=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
