@@ -2,7 +2,7 @@
 
 This is Zhefu's Github. I'm learning and coding in several languages as follow:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcatva&layout=donut-vertical&langs_count=10&hide=Makefile,Dockerfile,CSS,Html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcatva&layout=donut-vertical&langs_count=10&hide=Makefile,Dockerfile,CSS,Html,Smarty)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
